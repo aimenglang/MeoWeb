@@ -198,7 +198,7 @@ img {
 
 .nav-banner a{
   font-size: 12px;
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.5s;
   animation: showbannertext 4s ease-in-out;
   color: var(--heo-fontcolor);
 }
